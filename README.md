@@ -1,5 +1,3 @@
-# Introduction
+# 介绍
 
-This is a record of studying coding.
-
-​																	---by  QiQi
+记录在学习和工作中遇到的各种问题。
