@@ -11,5 +11,7 @@
 * [CSS](css/README.md)
     * [transform属性](css/transform属性.md)
     * [first-child、nth-child(1)选择第一个元素不起作用的解决方案](css/first-child、nth-child选择第一个元素不起作用的解决方案.md)
+    * [css渐变写法，兼容IE](css/css渐变写法，兼容IE.md)
+    * [css实现鼠标hover显示提示信息](css/css实现鼠标hover显示提示信息.md)
 * [Other](other/README.md)
 
