@@ -8,6 +8,7 @@
     * [获取用户移动端网络类型](JavaScript/获取用户移动端网络类型.md)
     * [获取web项目根目录](JavaScript/获取web项目根目录.md)
     * [将获取到的transform矩阵值转换为deg](JavaScript/将获取到的transform矩阵值转换为deg.md)
+    * [监控输入框，内容超出时禁止输入](JavaScript/监控输入框，内容超出时禁止输入.md)
 * [CSS](css/README.md)
     * [transform属性](css/transform属性.md)
     * [first-child、nth-child(1)选择第一个元素不起作用的解决方案](css/first-child、nth-child选择第一个元素不起作用的解决方案.md)
