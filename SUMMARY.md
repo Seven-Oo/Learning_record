@@ -17,9 +17,11 @@
     * [css实现鼠标hover显示提示信息](css/css实现鼠标hover显示提示信息.md)
     * [修改input placeholder文字颜色](css/修改input placeholder文字颜色.md)
 * [Other](other/README.md)
-    * [iframe](other/iframe/iframe.md)
+    * [iframe](other/iframe/README.md)
         * [根据内容自适应宽高](other/iframe/根据内容自适应宽高.md)
         * [获取内容、内容高度等](other/iframe/获取内容、内容高度等.md)
-    * [HTTP](other/http/http.md)
+    * [HTTP](other/http/README.md)
         * [http和https的区别](other/http/http和https的区别.md)
+    * [Git](other/git/README.md)
+        * [删除已经提交的文件夹](other/git/删除已经提交的文件夹.md)
 
