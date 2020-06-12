@@ -10,6 +10,7 @@
     * [将获取到的transform矩阵值转换为deg](JavaScript/将获取到的transform矩阵值转换为deg.md)
     * [监控输入框，内容超出时禁止输入](JavaScript/监控输入框，内容超出时禁止输入.md)
     * [实现图片旋转功能](JavaScript/实现图片旋转功能.md)
+    * [获取手机系统和型号](JavaScript/获取手机系统和型号.md)
 * [CSS](css/README.md)
     * [transform属性](css/transform属性.md)
     * [first-child、nth-child(1)选择第一个元素不起作用的解决方案](css/first-child、nth-child选择第一个元素不起作用的解决方案.md)
@@ -24,4 +25,5 @@
         * [http和https的区别](other/http/http和https的区别.md)
     * [Git](other/git/README.md)
         * [删除已经提交的文件夹](other/git/删除已经提交的文件夹.md)
+        * [使用时遇到的问题及解决方案](other/git/使用时遇到的问题及解决方案.md)
 
