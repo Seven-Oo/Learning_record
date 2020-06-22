@@ -12,6 +12,7 @@
     * [实现图片旋转功能](JavaScript/实现图片旋转功能.md)
     * [获取手机系统和型号](JavaScript/获取手机系统和型号.md)
     * [禁止复制和粘贴](JavaScript/禁止复制和粘贴.md)
+    * [数组去重](JavaScript/数组去重.md)
 * [CSS](css/README.md)
     * [transform属性](css/transform属性.md)
     * [first-child、nth-child(1)选择第一个元素不起作用的解决方案](css/first-child、nth-child选择第一个元素不起作用的解决方案.md)
