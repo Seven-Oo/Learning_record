@@ -28,4 +28,7 @@
     * [Git](other/git/README.md)
         * [删除已经提交的文件夹](other/git/删除已经提交的文件夹.md)
         * [使用时遇到的问题及解决方案](other/git/使用时遇到的问题及解决方案.md)
+    * [自定义插件](other/my/README.md)
+        * [select框](other/my/select框.md)
+        * 
 
